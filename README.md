@@ -34,4 +34,4 @@ An interactive visualization dashboard built using **Tableau** to analyze global
 * `Dashboard.png` - Preview screenshot of the Tableau dashboard.
 * `sales_data.xlsx` - Primary dataset used for analysis.
 * `README.md` - Documentation of the project.
-*
+
